@@ -1,1 +1,1 @@
-
+print("School is cool")
