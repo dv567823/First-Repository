@@ -1,1 +1,1 @@
-print("School is cool")
+print("School is super cool")
